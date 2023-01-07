@@ -1,4 +1,8 @@
 # What is Devops ?
+- By the name DevOps, it’s very clear that it’s a collaboration of **Development** as well as **Operations**. But one
+should know that DevOps is not a tool, or a software or framework, DevOps is a Combination of Tools which helps for the automation of whole infrastructure.
+- DevOps is basically and implementation of **Agile methodology** on Development side as well as Operations
+side.
 - In Simple words , Devops is the culture, set of practices amd working methodology that help organization develop, test , deploy and maintain softwares faster and more efficiently.
 - It emphasizes collaboration, communication, and automation to increase the speed and quality of software delivery and reduce time of deployment
 - in simple word,  It is just a practice or methodology which helps in  developement , building , testing and deployment of software with the aim of improving the speed and reliability of software by automating processes, increasing collaboration, and leveraging tools and technologies that support continuous integration, testing, and deployment
