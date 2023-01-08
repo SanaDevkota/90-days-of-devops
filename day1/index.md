@@ -35,3 +35,13 @@ In today's world every companies from startups to big giants , Everyone is using
 - **Git**: Git is like a time machine for your code. It allows you to track and revert changes to your codebase, making it easier to collaborate and manage your software development process.
 - **Kubernetes**: Kubernetes is like a traffic controller for your containers. It helps you manage and orchestrate a large number of Docker containers, making it easier to scale and deploy your applications.
 - **Nagios**: Nagios is like a watchdog for your systems. It continuously monitors the performance and availability of your systems and alerts you when issues arise, helping you identify and resolve problems before they impact your users.
+
+
+
+# Who are  Development teams ?
+the development team is responsible for writing and testing code. Some common roles that may be included in a development team include software developers, quality assurance engineers, and technical writers
+
+
+# Who are Operations teams ?
+The operations team is responsible for deploying and maintaining the software that the development team has written. They are responsible for the infrastructure that the software runs on, and for ensuring that the software is running smoothly and efficiently.
+common roles that may be included in an operations team include system administrators, network engineers, and site reliability engineers
