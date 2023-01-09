@@ -106,7 +106,18 @@ Linux commands are the commands that are used to perform different tasks in Linu
 **Linux Permissions**
 Linux is a multi-user operating system, so it has security to prevent people from accessing each other’s confidential files. 
 
-**chmode**: used to change the accesss mode of a file
-**chown**: used to change the ownder of files or directory 
+**chmode**: used to change the accesss mode of a file and folder
+**chown**: used to change the owner of files or directory 
 **chgrp**: used to change the group of files or directory . 
 to get deep dive visit here [LinuxPermission](https://www.geeksforgeeks.org/permissions-in-linux/)
+
+In the Linux operating system, file and directory permissions determine which users can access and perform certain actions on the files and directories. There are three types of permissions that can be set for each file or directory: read (r), write (w), and execute (x).These permissions can be set for the owner of the file or directory, as well as for other users who belong to the same group as the owner, and for all other users
+
+**mentioned sets** are :
+- r: read permission allows the owner of the file or directory to read its contents.
+
+- w: write permission allows the owner of the file or directory to make changes to its contents.
+
+- x: execute permission allows the owner of the file or directory to execute it as a program or script.
+
+in here **"+"** "+rwx" is used to add read, write and execute permissions ,or **"-"** "-rwx" to remove these permissinos
