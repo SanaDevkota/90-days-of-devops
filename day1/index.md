@@ -13,12 +13,13 @@ side.
 # Key Concepts
 - To properly understand DevOps, it is important to be aware of the following core concepts: CI/CD, Infrastructure as code, Automation, Collaboration and Monitoring.
 
-- 1 ) **Continuos integration**:Think of continuous integration as a nonstop party for your code. Whenever a new code change is made, it gets integrated into the main codebase(main/master branch) — just like a new guest arriving at a party. By integrating code changes regularly, teams can catch any problems early and keep the party going smoothly.
-- 2) **Continuous delivery**: Continuous delivery is like a well-oiled machine — it’s designed to keep software rolling out smoothly and efficiently. With continuous delivery, teams can deploy new code changes to production at any time, as long as they pass automated tests and meet other pre-defined criteria. It’s like a conveyor belt for code, moving smoothly and steadily from development to production
-- 3) **Infrastructure as code**:Imagine if you could control your entire infrastructure — servers, networks, storage, and more — just by writing a few lines of code. That’s the power of infrastructure as code. By treating infrastructure as code, teams can automate the provisioning and management of their systems, making it easier to scale and improve reliability
-- 4) **Automation**: Automation is like having a team of robots working for you. By using tools and processes to automate tasks such as testing, deployment, and monitoring, teams can save time and effort, and focus on more important tasks.
+- 1. ) **Continuos integration**:Think of continuous integration as a nonstop party for your code. Whenever a new code change is made, it gets integrated into the main codebase(main/master branch) — just like a new guest arriving at a party. By integrating code changes regularly, teams can catch any problems early and keep the party going smoothly.
 
-- 5) **Monitoring**: Monitoring is like a watchful eye that keeps track of the health and performance of your systems, applications, and infrastructure. It’s like having a team of superheroes constantly scanning the horizon for any signs of trouble, and swooping in to fix problems before they can cause harm.
+- 2. ) **Continuous delivery**: Continuous delivery is like a well-oiled machine — it’s designed to keep software rolling out smoothly and efficiently. With continuous delivery, teams can deploy new code changes to production at any time, as long as they pass automated tests and meet other pre-defined criteria. It’s like a conveyor belt for code, moving smoothly and steadily from development to production
+- 3. ) **Infrastructure as code**:Imagine if you could control your entire infrastructure — servers, networks, storage, and more — just by writing a few lines of code. That’s the power of infrastructure as code. By treating infrastructure as code, teams can automate the provisioning and management of their systems, making it easier to scale and improve reliability
+- 4. ) **Automation**: Automation is like having a team of robots working for you. By using tools and processes to automate tasks such as testing, deployment, and monitoring, teams can save time and effort, and focus on more important tasks.
+
+- 5. ) **Monitoring**: Monitoring is like a watchful eye that keeps track of the health and performance of your systems, applications, and infrastructure. It’s like having a team of superheroes constantly scanning the horizon for any signs of trouble, and swooping in to fix problems before they can cause harm.
 
 
 

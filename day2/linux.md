@@ -22,10 +22,23 @@ Unix is also an operating system like Linux. It is an commercial OS. It consists
 
 
 - Some Common Terminologies
-Folder        :           Directory 
-Administrator : Root User
-File          : File 
-Software      : Package
+  - Folder        : Directory 
+  - Administrator : Root User
+  - File          : File 
+  - Software      : Package
+
+
+# What is kernal ?
+The kernel is a computer program that is the core of a computer’s operating system, with complete control over everything in the system. It acts as a middleman between hardware and software . 
+
+# What is Shell?
+A shell is a command-line interface for interacting with an operating system. It allows users to enter commands, which the shell then executes
+
+# What is terminal ?
+A terminal is a program that provides a text-based interface to the computer. It allows users to enter commands, which are then executed by the shell.The terminal is essentially a window that displays the output of the shell and allows users to enter commands.
+
+# Differnece between shell and terminal ?
+In short, the terminal is the user interface that allows you to interact with the shell, while the shell is the underlying program that processes the commands you enter into the terminal.
 
 
 
@@ -121,3 +134,14 @@ In the Linux operating system, file and directory permissions determine which us
 - x: execute permission allows the owner of the file or directory to execute it as a program or script.
 
 in here **"+"** "+rwx" is used to add read, write and execute permissions ,or **"-"** "-rwx" to remove these permissinos
+
+
+
+# Basic Symbols in LInux
+- The dot (.) , dot-dot (..) , forward slash (/), and tilde (~), all have special functionality in the Linux filesystem
+- The dot (.) represents the current directory in the filesystem.
+- The dot-dot (..) represents one level above the current directory.
+- The forward slash (/) represents the "root" of the filesystem. (Every directory/file in the Linux filesystem is nested under the root / directory.)
+- The tilde (~) represents the home directory of the currently logged in user.
+- The dash (-) navigates back to the previous working directory, similar to how you can navigate to your user home directory with ~.
+
