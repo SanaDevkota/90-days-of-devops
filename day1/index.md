@@ -10,6 +10,15 @@ side.
 - Devops is bringing develoment and operations teams together and empoworing them to work more closily and efficiently , 
 
 
+# NOTE
+    - Dev wants :
+      - Continuous Change
+      - Add new features
+    - Ops want:
+      - Continuous Stability
+      - Create new services
+    - 
+
 # Key Concepts
 - To properly understand DevOps, it is important to be aware of the following core concepts: CI/CD, Infrastructure as code, Automation, Collaboration and Monitoring.
 
@@ -46,3 +55,7 @@ the development team is responsible for writing and testing code. Some common ro
 # Who are Operations teams ?
 The operations team is responsible for deploying and maintaining the software that the development team has written. They are responsible for the infrastructure that the software runs on, and for ensuring that the software is running smoothly and efficiently.
 common roles that may be included in an operations team include system administrators, network engineers, and site reliability engineers
+
+
+
+![Devops](https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2014/12/Devops1-300x300.png)
